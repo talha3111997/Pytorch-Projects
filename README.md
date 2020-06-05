@@ -8,6 +8,7 @@ Contains all the projects that I developed using Pytorch framework
 ![Alt text](https://github.com/talha3111997/Pytorch-Projects/blob/master/Screenshots/Sentimental%20Analysis.JPG?raw=true "Output of Sentimental Analysis using RNN in pytorch")
 
 <hr>
+
 ### [Style Transfer](https://github.com/talha3111997/Pytorch-Projects/blob/master/Style_Transfer_Exercise_with_pytorch.ipynb)
 
 #### Before: 
